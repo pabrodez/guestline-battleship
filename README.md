@@ -6,6 +6,7 @@
 ## Setup
 ```bash
 git clone https://github.com/pabrodez/guestline-battleship.git
+cd guestline-battleship
 npm install
 npm build
 ```
