@@ -8,13 +8,13 @@
 git clone https://github.com/pabrodez/guestline-battleship.git
 cd guestline-battleship
 npm install
-npm build
+npm run build
 ```
 ## Start
 ```bash
-npm play
+npm run play
 ```
 ## Run tests
 ```bash
-npm test
+npm run test
 ```
